@@ -1,0 +1,2 @@
+created a branch from local
+created a file called deal.txt and edited it
